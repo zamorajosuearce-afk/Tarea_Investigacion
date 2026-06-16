@@ -1,6 +1,6 @@
 import java.util.Scanner; // import para que el usuario ingrese en la terminal
 
-public class Calculadora_commit_4 { // Esta es la clase en la que vamos a trabajar, la main
+public class Calculadora { // Esta es la clase en la que vamos a trabajar, la main
     public static void main(String[] args) { // Ese es el metodo de la clase main del archivo
 
         Scanner var = new Scanner(System.in); // Movido afuera para que no se cree en cada bucle
